@@ -4,4 +4,4 @@
 
 > status: em desenvolvimento
 
->Primeiro passo criar o header do projeto.
+>Primeiro passo: criar o header do projeto.
